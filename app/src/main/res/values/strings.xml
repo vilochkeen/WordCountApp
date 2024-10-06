@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">WordCountApp</string>
+    <string name="hint_input">Enter your text here</string>
+    <string-array name="count_options">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+    <string name="option_words">Words</string>
+    <string name="option_char">Characters</string>
+    <string name="button_count">Count</string>
+    <string name="textview_result">Result will be displayed here</string>
+    <string name="empty_input">Please enter some text to count.</string>
 </resources>
